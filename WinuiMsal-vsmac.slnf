@@ -1,0 +1,16 @@
+{
+  "solution": {
+    "path": "WinuiMsal.sln",
+    "projects": [
+		"WinuiMsal\\WinuiMsal.csproj",
+
+		"WinuiMsal.Mobile\\WinuiMsal.Mobile.csproj",
+
+		"WinuiMsal.Wasm\\WinuiMsal.Wasm.csproj",
+
+		"WinuiMsal.Skia.Gtk\\WinuiMsal.Skia.Gtk.csproj",
+
+		"WinuiMsal.Skia.Gtk\\WinuiMsal.Skia.Gtk.csproj",
+    ]
+  }
+}
